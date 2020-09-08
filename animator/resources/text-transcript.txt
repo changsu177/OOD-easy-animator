@@ -1,0 +1,323 @@
+Shapes:
+Name: disk1
+Type: RECTANGLE
+Min corner: (0,0), Width: 0,Height: 0, Color: (0, 0, 0)
+Appears at t=0
+Disappears at t=151
+Name: disk2
+Type: RECTANGLE
+Min corner: (0,0), Width: 0,Height: 0, Color: (0, 0, 0)
+Appears at t=0
+Disappears at t=151
+Name: disk3
+Type: RECTANGLE
+Min corner: (0,0), Width: 0,Height: 0, Color: (0, 0, 0)
+Appears at t=0
+Disappears at t=151
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=0 to t=0
+
+Shape disk1 moves from (190,190) to (190,180) from t=0 to t=0
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=0 to t=0
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=0 to t=12
+
+Shape disk1 moves from (190,190) to (190,180) from t=0 to t=12
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=0 to t=12
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=0 to t=0
+
+Shape disk2 moves from (167,167) to (167,210) from t=0 to t=0
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=0 to t=0
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=0 to t=28
+
+Shape disk2 moves from (167,167) to (167,210) from t=0 to t=28
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=0 to t=28
+
+Shape disk3 scales from Width: 110, Height: 30 to Width: 110, Height: 30 from t=0 to t=0
+
+Shape disk3 moves from (145,145) to (145,240) from t=0 to t=0
+
+Shape disk3 changes color from (11,45,175) to (11,45,175) from t=0 to t=0
+
+Shape disk3 scales from Width: 110, Height: 30 to Width: 110, Height: 30 from t=0 to t=60
+
+Shape disk3 moves from (145,145) to (145,240) from t=0 to t=60
+
+Shape disk3 changes color from (11,45,175) to (11,45,175) from t=0 to t=60
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=12 to t=17
+
+Shape disk1 moves from (190,190) to (190,50) from t=12 to t=17
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=12 to t=17
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=17 to t=18
+
+Shape disk1 moves from (190,190) to (190,50) from t=17 to t=18
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=17 to t=18
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=18 to t=23
+
+Shape disk1 moves from (190,190) to (490,50) from t=18 to t=23
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=18 to t=23
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=23 to t=23
+
+Shape disk1 moves from (490,490) to (490,50) from t=23 to t=23
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=23 to t=23
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=23 to t=28
+
+Shape disk1 moves from (490,490) to (490,240) from t=23 to t=28
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=23 to t=28
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=28 to t=44
+
+Shape disk1 moves from (490,490) to (490,240) from t=28 to t=44
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=28 to t=44
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=28 to t=33
+
+Shape disk2 moves from (167,167) to (167,50) from t=28 to t=33
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=28 to t=33
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=33 to t=34
+
+Shape disk2 moves from (167,167) to (167,50) from t=33 to t=34
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=33 to t=34
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=34 to t=39
+
+Shape disk2 moves from (167,167) to (317,50) from t=34 to t=39
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=34 to t=39
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=39 to t=39
+
+Shape disk2 moves from (317,317) to (317,50) from t=39 to t=39
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=39 to t=39
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=39 to t=44
+
+Shape disk2 moves from (317,317) to (317,240) from t=39 to t=44
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=39 to t=44
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=44 to t=49
+
+Shape disk1 moves from (490,490) to (490,50) from t=44 to t=49
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=44 to t=49
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=44 to t=92
+
+Shape disk2 moves from (317,317) to (317,240) from t=44 to t=92
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=44 to t=92
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=49 to t=50
+
+Shape disk1 moves from (490,490) to (490,50) from t=49 to t=50
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=49 to t=50
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=50 to t=55
+
+Shape disk1 moves from (490,490) to (340,50) from t=50 to t=55
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=50 to t=55
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=55 to t=55
+
+Shape disk1 moves from (340,340) to (340,50) from t=55 to t=55
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=55 to t=55
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=55 to t=60
+
+Shape disk1 moves from (340,340) to (340,210) from t=55 to t=60
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=55 to t=60
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=60 to t=76
+
+Shape disk1 moves from (340,340) to (340,210) from t=60 to t=76
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=60 to t=76
+
+Shape disk3 scales from Width: 110, Height: 30 to Width: 110, Height: 30 from t=60 to t=65
+
+Shape disk3 moves from (145,145) to (145,50) from t=60 to t=65
+
+Shape disk3 changes color from (11,45,175) to (11,45,175) from t=60 to t=65
+
+Shape disk3 scales from Width: 110, Height: 30 to Width: 110, Height: 30 from t=65 to t=66
+
+Shape disk3 moves from (145,145) to (145,50) from t=65 to t=66
+
+Shape disk3 changes color from (11,45,175) to (11,45,175) from t=65 to t=66
+
+Shape disk3 scales from Width: 110, Height: 30 to Width: 110, Height: 30 from t=66 to t=71
+
+Shape disk3 moves from (145,145) to (445,50) from t=66 to t=71
+
+Shape disk3 changes color from (11,45,175) to (11,45,175) from t=66 to t=71
+
+Shape disk3 scales from Width: 110, Height: 30 to Width: 110, Height: 30 from t=71 to t=71
+
+Shape disk3 moves from (445,445) to (445,50) from t=71 to t=71
+
+Shape disk3 changes color from (11,45,175) to (11,45,175) from t=71 to t=71
+
+Shape disk3 scales from Width: 110, Height: 30 to Width: 110, Height: 30 from t=71 to t=76
+
+Shape disk3 moves from (445,445) to (445,240) from t=71 to t=76
+
+Shape disk3 changes color from (11,45,175) to (11,45,175) from t=71 to t=76
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=76 to t=81
+
+Shape disk1 moves from (340,340) to (340,50) from t=76 to t=81
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=76 to t=81
+
+Shape disk3 scales from Width: 110, Height: 30 to Width: 110, Height: 30 from t=76 to t=80
+
+Shape disk3 moves from (445,445) to (445,240) from t=76 to t=80
+
+Shape disk3 changes color from (11,45,175) to (0,255,0) from t=76 to t=80
+
+Shape disk3 scales from Width: 110, Height: 30 to Width: 110, Height: 30 from t=80 to t=151
+
+Shape disk3 moves from (445,445) to (445,240) from t=80 to t=151
+
+Shape disk3 changes color from (0,255,0) to (0,255,0) from t=80 to t=151
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=81 to t=82
+
+Shape disk1 moves from (340,340) to (340,50) from t=81 to t=82
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=81 to t=82
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=82 to t=87
+
+Shape disk1 moves from (340,340) to (190,50) from t=82 to t=87
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=82 to t=87
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=87 to t=87
+
+Shape disk1 moves from (190,190) to (190,50) from t=87 to t=87
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=87 to t=87
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=87 to t=92
+
+Shape disk1 moves from (190,190) to (190,240) from t=87 to t=92
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=87 to t=92
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=92 to t=108
+
+Shape disk1 moves from (190,190) to (190,240) from t=92 to t=108
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=92 to t=108
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=92 to t=97
+
+Shape disk2 moves from (317,317) to (317,50) from t=92 to t=97
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=92 to t=97
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=97 to t=98
+
+Shape disk2 moves from (317,317) to (317,50) from t=97 to t=98
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=97 to t=98
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=98 to t=103
+
+Shape disk2 moves from (317,317) to (467,50) from t=98 to t=103
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=98 to t=103
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=103 to t=103
+
+Shape disk2 moves from (467,467) to (467,50) from t=103 to t=103
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=103 to t=103
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=103 to t=108
+
+Shape disk2 moves from (467,467) to (467,210) from t=103 to t=108
+
+Shape disk2 changes color from (6,247,41) to (6,247,41) from t=103 to t=108
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=108 to t=113
+
+Shape disk1 moves from (190,190) to (190,50) from t=108 to t=113
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=108 to t=113
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=108 to t=112
+
+Shape disk2 moves from (467,467) to (467,210) from t=108 to t=112
+
+Shape disk2 changes color from (6,247,41) to (0,255,0) from t=108 to t=112
+
+Shape disk2 scales from Width: 65, Height: 30 to Width: 65, Height: 30 from t=112 to t=151
+
+Shape disk2 moves from (467,467) to (467,210) from t=112 to t=151
+
+Shape disk2 changes color from (0,255,0) to (0,255,0) from t=112 to t=151
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=113 to t=114
+
+Shape disk1 moves from (190,190) to (190,50) from t=113 to t=114
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=113 to t=114
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=114 to t=119
+
+Shape disk1 moves from (190,190) to (490,50) from t=114 to t=119
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=114 to t=119
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=119 to t=119
+
+Shape disk1 moves from (490,490) to (490,50) from t=119 to t=119
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=119 to t=119
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=119 to t=124
+
+Shape disk1 moves from (490,490) to (490,180) from t=119 to t=124
+
+Shape disk1 changes color from (0,49,90) to (0,49,90) from t=119 to t=124
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=124 to t=128
+
+Shape disk1 moves from (490,490) to (490,180) from t=124 to t=128
+
+Shape disk1 changes color from (0,49,90) to (0,255,0) from t=124 to t=128
+
+Shape disk1 scales from Width: 20, Height: 30 to Width: 20, Height: 30 from t=128 to t=151
+
+Shape disk1 moves from (490,490) to (490,180) from t=128 to t=151
+
+Shape disk1 changes color from (0,255,0) to (0,255,0) from t=128 to t=151
+
